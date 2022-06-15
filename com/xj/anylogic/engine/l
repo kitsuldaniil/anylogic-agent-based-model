@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+</HEAD>
+<BODY>
+<center><h1>AnyLogic Engine Runtime License Agreement</h1></center>
+<p><b>NOTICE TO USER:</b> PLEASE READ THIS AGREEMENT CAREFULLY. BY COPYING, INSTALLING OR USING ALL OR ANY PORTION OF THE SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. YOU AGREE THAT THIS AGREEMENT IS LIKE ANY WRITTEN NEGOTIATED AGREEMENT SIGNED BY YOU. THIS AGREEMENT IS ENFORCEABLE AGAINST YOU AND ANY LEGAL ENTITY THAT OBTAINED THE SOFTWARE AND ON WHOSE BEHALF IT IS USED: IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE. </p>
+<p>As used in this Agreement, the terms “you” or “your” refers to you and the entity you represent.</p>
+<p>You may have another written agreement directly with XJ that supplements or supersedes all or portions of this Agreement.</p>
+<p>XJ and its suppliers own all intellectual property in the Software. The Software is licensed, not sold. XJ permits you to copy, download, install, use, or otherwise benefit from the functionality or intellectual property of the Software only in accordance with the terms of this Agreement. Use of some third party materials included in the Software may be subject to other terms and conditions typically found in a separate license agreement.</p>
+<h2>1. Definitions</h2>
+<p>“You” and “Your” is defined in the pre-amble above.</p>
+<p>“XJ”: XJ Technologies Company, with offices at Nepokorennykh pr 49, St.Petersburg, 195220, Russia organized under the laws of Russian Federation</p>
+<p>“Documentation”: any explanatory written or on-line materials including, but not limited to, help files, user guides, reference manuals, tutorials, Java docs and HTML files.</p>
+<p>“AnyLogic Engine”: all materials and information with which this license is provided including, but not limited to, executables, dynamic-link libraries, static libraries, object code, byte code, source code, code, files, scripts, sample models, libraries, Documentation, and upgrades, updates and additions to such information and/or materials, provided to you by XJ at any time.</p>
+<p> “Permitted Number”: the number of licenses for the Software granted to you by XJ.</p>
+<p>“Simulation Application”: a simulation model created by using “Export As Java Application” function of the Software.</p>
+<p>“Confidential Information” is defined in Section 4 hereof.</p>
+<h2>2. AnyLogic Engine Runtime License</h2>
+<p>As long as you obtained AnyLogic Engine from XJ, one of its authorized resellers or from XJ’s licensee with written right to distribute the AnyLogic Engine to you, and as long as you comply with the terms of this Agreement, XJ grants you a non-exclusive, non-transferable, non-concurrent license to install and use AnyLogic Engine in the manner and for the purposes described in the Documentation, as further set forth below:</p>
+<DIV STYLE="margin-left:15px">
+	<p>a) You may install and use AnyLogic Engine for execution of Simulation Applications on up to the Permitted Number of the computers.</p>
+	<p>You have no rights to use AnyLogic Engine beyond those specifically granted in this section.</p>
+</DIV>
+<h2>3. Restrictions </h2>
+<DIV STYLE="margin-left:15px">
+	<p>a) No Modifications. You may not modify, adapt or translate AnyLogic Engine. You may not reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of AnyLogic Engine.</p>
+	<p>b) No Unbundling. AnyLogic Engine may include various applications, utilities and components, may support multiple platforms and languages and may be provided to you on multiple media or in multiple copies. Nonetheless, AnyLogic Engine is designed and provided to you as a single product to be used as a single product on the computers as permitted by Sections 2. You are not required to use all component parts of AnyLogic Engine, but you may not unbundle the component parts of AnyLogic Engine for use on different computers. You may not unbundle or repackage AnyLogic Engine for distribution, transfer or resale.</p>
+	<p>c) Commercial Distribution. You may not distribute the AnyLogic Engine to any third-party (including, without limitation, distribution or deployment over the Internet). </p>
+	<p>d) You may not use AnyLogic Engine to execute any simulation models other than Simulation Applications as set forth in Sections 1 and 2.</p>
+	<p>e) Notwithstanding any provisions in this Agreement to the contrary, you may not distribute:</p>
+	<DIV STYLE="margin-left:15px">
+		<p>(i) any executable delivered with AnyLogic Engine,</p>
+		<p>(ii) any dynamic-link library delivered with AnyLogic Engine,</p>
+		<p>(iii) any static library delivered with AnyLogic Engine,</p>
+		<p>(iv) any object code,</p>
+		<p>(v) any byte code,</p>
+		<p>(vi) any materials delivered with AnyLogic Engine,</p>
+		<p>(vii) any portion of the Documentation.</p>
+	</DIV>
+	<p>f) In addition, you may not:</p>
+	<DIV STYLE="margin-left:15px">
+		<p>(i) decompile, disassemble, or reverse engineer any object code form of any portion of AnyLogic Engine,</p>
+		<p>(ii) disclose any source code of AnyLogic Engine to any person or entity,</p>
+		<p>(iii) rent, transfer, assign, sublicense or grant any rights in AnyLogic Engine, in full or in part, to any other person or entity without XJ written consent.</p>
+	</DIV>
+</DIV>
+<h2>4. Confidentiality; Proprietary Rights</h2>
+<p>You recognize that the Software consists of proprietary and confidential information and trade secrets owned by XJ, and third party software suppliers, (collectively, the “Confidential Information” and as further defined below) which is protected by Russian, U.S. and international copyright and trade secret laws. </p>
+<p>XJ retains all rights, title and interest in the Software and you shall not take any action inconsistent with such title and ownership. You shall not alter or remove any printed or on-screen copyright, trade secret, proprietary or other legal notices contained on or in copies of any Software or Documentation.  You acknowledge and agrees that the Software may contain code or require devices that detect or prevent unauthorized use of the Software.</p>
+<p>This Agreement is not a sale and does not transfer to you any title or ownership in or to the Software or any patent, copyright, trade secret, trade name, trademark or other proprietary or intellectual property rights related thereto.</p>
+<p>You agree to take all reasonable steps to safeguard the secrecy of said confidential information and information concerning it, and to prevent the unauthorized disclosure thereof. </p>
+<p>Except for the specific rights granted by this Agreement, you shall not use or disclose any Confidential Information without the written consent of XJ.  You shall use the highest commercially reasonable degree of care to protect the Confidential Information, including ensuring that your employees or consultants with access to such Confidential Information have agreed in writing not to disclose the Confidential Information.  You shall bear the responsibility for any breaches of confidentiality by its employees and consultants.  </p>
+<p>Nothing herein shall prevent you from disclosing all or part of the Confidential Information as necessary pursuant to the lawful requirement of a governmental agency or when disclosure is required by operation of law; provided that prior to any such disclosure, you shall use reasonable efforts to (i) promptly notify XJ in writing of such requirement to disclose, and (ii) cooperate fully with XJ in protecting against any such disclosure or obtaining a protective order.  Money damages will not be an adequate remedy if this Section 8 or Sections 2 through 6 are breached and, therefore, XJ shall, in addition to any other legal or equitable remedies, be entitled to an injunction or similar equitable relief against such breach or threatened breach without the necessity of posting any bond.</p>
+<p>For the purposes of this Agreement, “Confidential Information” shall include all confidential, proprietary or secret information of XJ, including without limitation the Software, Documentation, components, parts, drawings, data, sketches, flow charts, plans, reports, handbooks, programs, data, source code, object code, screen displays, feedback, evaluation results, evaluation reports, test results, test reports, reports of errors, problems, defects or suggestions, specifications, features, techniques, processes, algorithms, inventions, other information or material, which is provided or disclosed by XJ to you for the purposes specified in this Agreement, or is derived or produced by you pursuant to this Agreement, whether such information is disclosed by XJ or you, as the case may be, (a) in writing or other tangible medium, (b) visually, or (c) orally.</p>
+<h2>5. Disclaimer of Warranty</h2>
+<p>UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.</p>
+<h2>6. Limitation of Liability</h2>
+<p>In no event will XJ, or its affiliates, suppliers, distributors or dealers be liable to you for any indirect, consequential, incidental, or special damages, including but not limited to, damages for loss of business profits, business interruption, loss of business information and the like arising from the use or loss of use of AnyLogic Engine if the company or an authorized dealer has been advised of the possibility of such damages, or any claim by any third party.</p>
+<p>In no event shall XJ’s liability to you, if any, exceed the amount paid as the license fee pursuant to this Agreement.</p>
+<h2>7. Termination</h2>
+<p>You may terminate this Agreement at any time by ceasing to use the Licensed AnyLogic Engine and by returning all copies of the Licensed AnyLogic Engine (including the original) to XJ or by destroying all copies of the Licensed AnyLogic Engine (including the original). This Agreement will terminate immediately without notice from XJ if you fail to comply with any provision of this Agreement. Unless terminated by either party, this Agreement shall remain in effect.</p>
+<h2>8. General Provisions</h2>
+<p><b>8.1 Force Majeure.</b>  In the event that either party is prevented from performing, or is unable to perform, any of its obligations under this Agreement due to any cause beyond the reasonable control of the party invoking this provision, the affected party's performance shall be extended for the period of delay or inability to perform due to such occurrence.</p>
+<p><b>8.2 Publicity.</b>  You shall not originate any publicity, news release or other public announcement relating to the Software, this Agreement, its terms or the existence of an arrangement between the parties without the prior written approval of XJ, except as otherwise required by law.</p>
+<p><b>8.3 Waiver.</b>  The waiver by XJ of a breach or a default of any provision of this Agreement by you shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of XJ to exercise or avail itself of any right, power or privilege that it has, or may have hereunder, operate as a waiver of any right, power or privilege by XJ.</p>
+<p><b>8.4 No Agency; Independent Contractors.</b>  Nothing contained in this Agreement shall be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose.</p>
+<p><b>8.5 Governing Law; Jurisdiction & Venue.</b> This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, USA, without regard to its choice of law provisions.  In the event of any conflict between foreign laws, rules and regulations and those of the United States, the laws, rules and regulations of the United States shall govern.  The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.  Exclusive jurisdiction and venue for any litigation arising under this Agreement is in the federal and state courts located in Suffolk County, Massachusetts, USA if you are located in North America or South America, or in London, England if you are located outside of North America or South America, and both parties hereby consent to such jurisdiction and venue for this purpose.</p>
+<p><b>8.6 Entire Agreement; Amendment.</b> This Agreement constitutes the entire agreement between the parties with regard to the subject matter hereof.  No waiver, consent, modification or change of terms of this Agreement shall bind either party unless in writing signed by both parties, and then such waiver, consent, modification or change shall be effective only in the specific instance and for the specific purpose given.  Terms set forth in any purchase order provided by you (or other similar document) that are in addition to or at variance with the terms of this Agreement are specifically waived by you.  All such terms are considered by XJ to be proposed material alterations of this license and are rejected.  Your purchase order is only effective as your unqualified commitment to pay for a license to the Software upon the terms (and only the terms) set forth herein.</p>
+<p><b>8.7 Costs, Expenses and Attorneys' Fees.</b> You shall reimburse XJ for all reasonable costs (including attorneys' fees) incurred by XJ in collecting late payments from you. If XJ commences any action or proceeding against you to enforce or interpret this Agreement, XJ shall be entitled to recover from you (in addition to any other damages) the actual costs, expenses and attorneys' fees (including all related costs and expenses), incurred by XJ in connection with such action or proceeding and in connection with obtaining and enforcing any judgment or order thereby obtained.</p>
+<p><b>8.8 Assignment.</b> This Agreement and the rights and obligations hereunder, may not be assigned, in whole or in part by you without the prior written consent of XJ.  In the case of any permitted assignment or transfer of or under this Agreement, this Agreement or the relevant provisions shall be binding upon, and inure to the benefit of, the successors, executors, heirs, representatives, administrators and assigns of the parties hereto.  XJ may assign this Agreement.</p>
+<p><b>8.9 Notices.</b> Any notice or communication from one party to the other shall be in writing and either personally delivered or sent via facsimile or certified mail, postage prepaid and return receipt requested, addressed to such other party at the address specified below or at such other address as such party may from time to time designate in a notice to the other party.  All notices shall be in English and shall be effective upon receipt.</p>
+<p><b>8.10 In English.</b> The parties confirm that this Agreement and all related documentation are and will be drafted in English. Les parties aux présentés confirment leur volonté que cette convention de même que tous les documents y compris tout avis qui s’y rattaché, soient redigés en langue Anglaise.</p>
+<p><b>8.11 Acknowledgment.</b> You acknowledge that (a) you have read and understand this Agreement; (b) you had an opportunity to have your legal counsel review this Agreement; (c) that this Agreement has the same force and effect as a signed agreement and (d) you, as the individual accepting this Agreement on behalf of a corporation or other legal entity personally represent that you are duly authorized to accept this Agreement on behalf of such entity and that this Agreement is binding upon such entity.</p>
+<P><BR>
+XJ Technologies Company Ltd<BR>
+<A HREF="http://www.xjtek.com/">www.xjtek.com</A>
+</P>
+</BODY>
+</HTML>
